@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "antiycloud.com",
+        "antiy.com",
+        "avlyun.net",
+        "antiy.net.cn",
+        "avlsec.com",
+        "avlinsight.com",
+        "avlyun.org",
+        "antiy.cn",
+        "avlyun.cn",
+        "cloud-backup.com.cn",
+        "avlyun.com"
+      ]
+    }
+  ],
+  "version": 2
+}
