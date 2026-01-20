@@ -3,4 +3,4 @@
 #### 规则链接
 
 **Github**
-https://github.com/ChengzhiMiao/singbox_ruleset/blob/main/rule/cursor/cursor.srs
+https://raw.githubusercontent.com/ChengzhiMiao/singbox_ruleset/refs/heads/main/rule/cursor/cursor.srs
